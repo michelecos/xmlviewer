@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="maven-antrun-" default="main">
+  <target name="main">
+    <copy todir="X:\R81R9U0\SOURCE\MICHELE\xmlviewer\target">
+      <fileset dir="X:\R81R9U0\SOURCE\MICHELE\xmlviewer/src/main/resources" />
+    </copy>
+  </target>
+</project>
