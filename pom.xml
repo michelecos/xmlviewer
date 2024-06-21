@@ -61,7 +61,7 @@
         <version>3.2.5</version> <!-- Use the appropriate version -->
         <configuration>
           <!-- Specify the working directory for all tests -->
-          <workingDirectory>${project.basedir}/testroot</workingDirectory>
+          <workingDirectory>${project.basedir}/testroot/PROGS</workingDirectory>
           <!-- Other configurations for the maven-surefire-plugin -->
         </configuration>
       </plugin>
