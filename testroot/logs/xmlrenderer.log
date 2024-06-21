@@ -6,3 +6,7 @@ TIMESTAMP               | SOURCE:LINE                          | LEVEL | MESSAGE
 TIMESTAMP               | SOURCE:LINE                          | LEVEL | MESSAGE
 2024-06-21 16:38:27.087 | e.r.s.XmlToHtmlConverterTest   | ERROR | XmlToHtmlConverterTest.testConvertXmlToHtml() failed
 TIMESTAMP               | SOURCE:LINE                          | LEVEL | MESSAGE
+TIMESTAMP               | SOURCE:LINE                          | LEVEL | MESSAGE
+2024-06-21 17:55:03.223 | e.r.supernova.HtmlViewerTest   | INFO  | HtmlViewerTest.testShow() done
+TIMESTAMP               | SOURCE:LINE                          | LEVEL | MESSAGE
+TIMESTAMP               | SOURCE:LINE                          | LEVEL | MESSAGE
