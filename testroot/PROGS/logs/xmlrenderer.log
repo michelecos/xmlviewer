@@ -1,0 +1,14 @@
+TIMESTAMP               | SOURCE:LINE                          | LEVEL | MESSAGE
+TIMESTAMP               | SOURCE:LINE                          | LEVEL | MESSAGE
+TIMESTAMP               | SOURCE:LINE                          | LEVEL | MESSAGE
+TIMESTAMP               | SOURCE:LINE                          | LEVEL | MESSAGE
+TIMESTAMP               | SOURCE:LINE                          | LEVEL | MESSAGE
+2024-06-22 10:32:21.431 | e.r.supernova.XmlViewer        | INFO  | xmlrenderer working on IT01234567890_12001.xml with fatturapa_v1.2.xsl
+2024-06-22 10:32:21.454 | e.r.supernova.XmlViewer        | ERROR | Errore durante il rendering di XML in HTML: /Users/michele/Documents/GitHub/xmlviewer/testroot/PROGS/fatturapa_v1.2.xsl (No such file or directory)
+TIMESTAMP               | SOURCE:LINE                          | LEVEL | MESSAGE
+2024-06-22 10:33:33.756 | e.r.supernova.XmlViewer        | INFO  | xmlrenderer working on IT01234567890_12001.xml with fatturapa_v1.2.xsl
+TIMESTAMP               | SOURCE:LINE                          | LEVEL | MESSAGE
+2024-06-22 10:45:49.438 | e.r.supernova.XmlViewer        | INFO  | xmlrenderer working on ../DOC/Fatture_Emesse/Ricevute_SdI/registrate/IT01234567890_12001.xml with ../DOC/Fatture_Emesse/Ricevute_SdI/registrate/fatturapa_v1.2.xsl
+TIMESTAMP               | SOURCE:LINE                          | LEVEL | MESSAGE
+TIMESTAMP               | SOURCE:LINE                          | LEVEL | MESSAGE
+TIMESTAMP               | SOURCE:LINE                          | LEVEL | MESSAGE

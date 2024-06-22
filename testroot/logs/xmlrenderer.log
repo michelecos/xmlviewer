@@ -1,13 +1,3 @@
 TIMESTAMP               | SOURCE:LINE                          | LEVEL | MESSAGE
-2024-06-21 16:30:09.475 | e.r.supernova.HtmlViewerTest   | INFO  | HtmlViewerTest.testShow() done
-TIMESTAMP               | SOURCE:LINE                          | LEVEL | MESSAGE
-TIMESTAMP               | SOURCE:LINE                          | LEVEL | MESSAGE
-2024-06-21 16:31:13.955 | e.r.supernova.HtmlViewerTest   | INFO  | HtmlViewerTest.testShow() done
-TIMESTAMP               | SOURCE:LINE                          | LEVEL | MESSAGE
-2024-06-21 16:38:27.087 | e.r.s.XmlToHtmlConverterTest   | ERROR | XmlToHtmlConverterTest.testConvertXmlToHtml() failed
-TIMESTAMP               | SOURCE:LINE                          | LEVEL | MESSAGE
-TIMESTAMP               | SOURCE:LINE                          | LEVEL | MESSAGE
-2024-06-21 17:55:03.223 | e.r.supernova.HtmlViewerTest   | INFO  | HtmlViewerTest.testShow() done
-TIMESTAMP               | SOURCE:LINE                          | LEVEL | MESSAGE
-TIMESTAMP               | SOURCE:LINE                          | LEVEL | MESSAGE
-TIMESTAMP               | SOURCE:LINE                          | LEVEL | MESSAGE
+2024-06-22 10:20:21.996 | e.r.supernova.XmlViewer        | INFO  | xmlrenderer working on input.xml with stylesheet.xsl
+2024-06-22 10:20:22.033 | e.r.supernova.XmlViewer        | ERROR | Errore durante il rendering di XML in HTML: /Users/michele/Documents/GitHub/xmlviewer/testroot/stylesheet.xsl (No such file or directory)

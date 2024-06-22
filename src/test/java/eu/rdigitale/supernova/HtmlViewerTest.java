@@ -12,7 +12,7 @@ public class HtmlViewerTest {
     @Test
     public void testShow() throws InterruptedException {
         // Test file path
-        String filePath = "/Users/michele/Documents/GitHub/xmlviewer/testroot/DOC/test.html";
+        String filePath = "../DOC/test.html";
         HtmlViewer.show(filePath);
         log.info("HtmlViewerTest.testShow() done");
     }

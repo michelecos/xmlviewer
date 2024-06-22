@@ -13,13 +13,13 @@ import lombok.extern.slf4j.Slf4j;
  *
  */
 @Slf4j
-public class XmlRenderer {
+public class XmlViewer {
     private String xslStylesheet;
     Properties properties = new Properties();
 
-    public XmlRenderer() throws IOException {
+    public XmlViewer() throws IOException {
         // Constructor logic goes here
-        properties.load(XmlRenderer.class.getClassLoader().getResourceAsStream("xmlrenderer.properties"));
+        properties.load(XmlViewer.class.getClassLoader().getResourceAsStream("xmlrenderer.properties"));
         xslStylesheet = properties.get("xslStylesheet").toString();
     }
 
