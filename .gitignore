@@ -2,3 +2,4 @@ target/**
 **/.DS_Store
 .DS_Store
 testroot/logs/xmlrenderer.log
+testroot/PROGS/logs/xmlrenderer.log
